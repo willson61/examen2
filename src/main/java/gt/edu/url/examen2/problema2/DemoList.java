@@ -3,14 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package gt.edu.url.examen2;
+package gt.edu.url.examen2.problema2;
 
 /**
  *
  * @author tuxtor
  */
-public class DemoExamen {
-    
-    
-    
+public interface DemoList {
+    List<Integer> crearDemoLista();
 }
