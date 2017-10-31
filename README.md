@@ -543,7 +543,7 @@ public class LinkedPositionalListProblema4<E> implements PositionalList<E>{
 ## Descripcion de Solucion Problema 4
 Implementacion de lista posicionalemnte enlazada con modificacion de meetodo positionAtIndez que en base a un numero devulve la posicion
 de ese valor, como si la lista duera manejada por un indice.
-#Solucion Problema 5
+# Solucion Problema 5
 <pre><code>
 /**
  * 
